@@ -1,7 +1,7 @@
 ### `$ whoami`
 
 
-### Hi, I'm Tuyet Chinh✔️
+### Hi, I'm Tuyet Chinh....
 
 > [![View count](https://visitcount.itsvg.in/api?id=dinhthituyetchinh&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=dinhthituyetchinh)
 
@@ -19,11 +19,9 @@
 `dinhthituyetchinh`
 ![GitHub stars](https://img.shields.io/github/stars/dinhthituyetchinh?style=social
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100045406261491)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.crf-blogger.gq/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/CodingReshapeFuture)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucthienphong1120/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltp1120/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fengdinh)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinhthituyetchinh/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tietchin/)
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
