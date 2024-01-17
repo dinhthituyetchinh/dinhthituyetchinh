@@ -55,16 +55,7 @@
         </a>
       </td>
     </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=dinhthituyetchinh">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=dinhthituyetchinh&theme=dracula">
-        </a>
-      </td>
-    </tr>
-  </tbody>
+  </tbody>  
 </table>
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
